@@ -1,7 +1,4 @@
-# Louis Wilkie - Data Analyst Portfolio
-
-## About
-Welcome to my data analytics portfolio.
+# Data Analyst Portfolio
 
 Some projects were completed as part of my education and answer certain questions according to the assignments, 
 the explanations and rational in the accompying assignment outline and submitted reports are ommited.
