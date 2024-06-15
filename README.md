@@ -163,8 +163,8 @@ Below shows a preview of one of the tasks.
 <br><br>
 
 <p float="left">
-  <img src="https://github.com/Lughaidh-w/Data-Analysis-Portfolio/tree/master/assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" width="48%" />
-  <img src="https://github.com/Lughaidh-w/Data-Analysis-Portfolio/tree/master/assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" width="48%" />
+  <img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" width="48%" />
+  <img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" width="48%" />
 </p>
 
 <br>
@@ -175,4 +175,5 @@ Dashboard based on approx 1000 Steam Users' played and recommended games.
 App is created in Streamlit, code available here: https://github.com/L-Wilkie-sba22529/streamlit_app
 <br><br>
 
-<img src="https://github.com/Lughaidh-w/Data-Analysis-Portfolio/tree/master/assets/steam_streamlit_app.png" alt="Steam Streamlit App" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/steam_streamlit_app.png" alt="Steam Streamlit App" width="100%"/>
+
