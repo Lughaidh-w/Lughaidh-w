@@ -144,6 +144,12 @@ https://github.com/Lughaidh-w/Zen-Quote-Display<br>
 This project utilizes Node.js to interact with a simple API for displaying Zen Quote images. It also incorporates Bash scripts and cron jobs for automation tasks.
 <br><br>
 
+<b>PostegreSQL Tasks</b><br>
+https://github.com/Lughaidh-w/postegresql-tasks
+Collection of tasks from Everboy Sepcialization provided by University of Michigan on Coursera.
+Including basic PostegreSQL commands/tables, gin index with some NLP.
+<br><br>
+
 
 <b>MongoDB Movie Database</b><br>
 https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
