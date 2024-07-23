@@ -132,6 +132,12 @@ https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
 Conduct A/B testing on player retention for a game dataset.
 <br><br>
 
+<b>SQLite3 Database</b><br>
+https://github.com/Lughaidh-w/sqlite3_database<br>
+Database using SQLite3 on food production data.
+Some queries are performed to answer questions.
+<br><br>
+
 
 <b>Data Visualization Game Sales</b><br>
 https://github.com/Lughaidh-w/Data-Visualisation-Game-Sales<br>
