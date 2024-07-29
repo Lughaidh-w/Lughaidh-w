@@ -15,7 +15,7 @@ Diploma in Data Analytics for Business. CCT, Dublin
   - Supervised Learning
   - Unsupervised Learning
 - Deep Learning Projects
-  - Time-Seres Analysis
+  - Time-Series Analysis
   - Computer Vision
   - Natural Language Processing
 - Other Projects
