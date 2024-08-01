@@ -15,7 +15,7 @@ Diploma in Data Analytics for Business. CCT, Dublin
   - Supervised Learning
   - Unsupervised Learning
 - Deep Learning Projects
-  - Time-Series Analysis
+  - Time-Seres Analysis
   - Computer Vision
   - Natural Language Processing
 - Other Projects
@@ -93,6 +93,15 @@ Performs MBA on groceries data, and then performs a classification to determine 
 https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
 Text processing and sentiment analysis of news headlines.
 Naive Baise model with 0.88% accuracy.<br><br>
+
+<b>Sentiment Analysis of Alexa Reviews</b><br>
+https://github.com/Lughaidh-w/Sentiment-Analysis-of-Alexa-Reviews<br>
+Sentiment Analysis of a nearly 3000 Amazon customer reviews. 
+A word cloud of the positive reviews is shown below.
+<br><br>
+<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/positive_word_cloud.png" alt="Word Cloud of Positive Words" width="100%"/>
+
+
 
 ## Deep Learning
 
